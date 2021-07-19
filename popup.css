@@ -1,0 +1,157 @@
+body{
+  text-align: center;
+  background-color: #292826;
+  margin: 0;
+}
+.timer-h1{
+  padding: 3%;
+  color: #F9D342;
+}
+.timer-input{
+  border-radius: 3px;
+  margin: 0;
+}
+.time-h1{
+  color: #fff;
+}
+h5{
+  margin: 0;
+  /* color: #F96167; */
+}
+.card-header{
+  background-color: #B5EAEA;
+}
+
+.btn:hover {
+  background-color: #B5EAEA;
+}
+/* .timer-col{
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+} */
+
+/* CSS FOR TODOO LIST */
+
+
+.todo-col{
+     padding: 50px;
+     box-sizing: border-box;
+     height: 100%;
+     box-sizing: border-box;
+     /* height: 450px; */
+}
+
+.todo-h1{
+  color: #fff;
+	font-size: 3rem;
+	font-weight: 50;
+	text-align: center;
+	margin: 1rem 0 3rem;
+	font-family: 'Hind', sans-serif;
+}
+
+.todo-title{
+  color: #F9D342;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+.todo-inputDiv{
+  display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.todo-input{
+  padding: 0.5rem 1rem;
+  outline: none;
+  border: none;
+  height: 50px;
+  border-radius: 25px;
+  width: 350px;
+  margin: 0.25rem;
+  transition: .5s;
+  font-size: 1.15rem;
+}
+
+.todo-add{
+  outline: none;
+    border: none;
+    height: 50px;
+    border-radius: 25px;
+    width: 50px;
+    background-color: #F9D342;
+    color: white;
+    cursor: pointer;
+    transition: .5s;
+    margin: 0.25rem;
+}
+
+.todo-add:hover{
+	opacity: 0.7;
+}
+
+.todo-container{
+  display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 2rem;
+}
+
+.todo-item{
+  padding: 0.5rem;
+	border-bottom: 4px solid #fff;
+	margin-bottom: 1.5rem;
+}
+
+.item_input{
+  background: none;
+	outline: none;
+	border: none;
+	color: #fff;
+	font-size: 1.4rem;
+	width: 245px;
+}
+
+.edit{
+  background: none;
+	outline: none;
+	border: none;
+	color: #F9D342;
+	font-size: 1.4rem;
+	font-family: 'Hind', sans-serif;
+	margin: 0 0.5rem;
+	cursor: pointer;
+}
+
+.remove{
+  background: none;
+	outline: none;
+	border: none;
+	color: #E00;
+	font-size: 1.4rem;
+	font-family: 'Hind', sans-serif;
+	cursor: pointer;
+}
+
+/* alarm */
+.alarm-h1{
+  padding: 3%;
+  color: #F9D342;
+}
+#alarm-txt{
+  color: #fff;
+}
+.alarm-label{
+  padding: 30px;
+}
+
+/* block the url */
+img{
+  width: 70px;
+}
+.block-h1{
+  color: #F9D342;
+  padding: 40px;
+}

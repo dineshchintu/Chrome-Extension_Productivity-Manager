@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Blocker Settings</title>
+</head>
+<body>
+    <link rel="stylesheet" href="options.css">
+    <div id="settingsForm" unselectable="on" class="unselectable">
+        <div id="title">
+            <h1>Block URL</h1>
+        </div>
+        <div id="itemList">
+            <select id="itemListSelect" size="5">
+            </select>
+        </div>
+        <div id="controls">
+            <div id="url">
+                Enter URL: <input id="urlInput" />
+            </div>
+            <div id="buttons">
+                <button id="addButton">Add</button>
+                <button id="removeButton">Remove</button>
+            </div>
+        </div>
+        <div id="info">
+          <h3>  To edit an existing entry use double click.</h3>
+        </div>
+        <div id="regexTesting">
+            <b>Test URL whether it's blocked or not:</b>
+            <table>
+                <tr>
+                    <td>URL:
+                        <td> <input id="testURLInput" class="testInput" />
+                </tr>
+                <tr>
+                    <td>Result:
+                        <td>
+                            <div id="result"></div>
+                </tr>
+            </table>
+        </div>
+        <!--<div id="save">
+		<button id="saveButton">Save</button>
+	</div>-->
+    </div>
+    <script src="options.js">
+    </script>
+</body>
+</html>
