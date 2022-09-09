@@ -57,7 +57,6 @@ Installing on Firefox :
   ```bash
   * we can set alarm in HH/MM format with an 
    event name to distinguish between different alarms.
-  * we can set multiple alarms for different events.
   ```
 - Todo List
   ```bash
@@ -80,4 +79,5 @@ Installing on Firefox :
 
 ![3](https://user-images.githubusercontent.com/83536671/189363257-e95f0b12-efc6-4dda-a921-ad4fdab779cc.jpeg)
 
-![1](https://user-images.githubusercontent.com/83536671/189363246-e984ef5e-8b44-4eea-946d-e63732dcacf2.jpeg)
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/83536671/189401882-308160f9-59ed-4f7a-940a-f360c5f600d0.png">
+
