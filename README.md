@@ -62,7 +62,7 @@ Installing on Firefox :
 - Todo List
   ```bash
   * we can save our daily tasks in order not to miss anything. We can add any task to the todo list.
-  * once paricular task is done, we can remove from ths todo list , and we can also edit if required.
+  * once paricular task is done, we can remove this from the todo list , and we can also edit if required.
   ```
 - Blocking URL
   ```bash
