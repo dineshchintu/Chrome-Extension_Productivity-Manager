@@ -57,7 +57,6 @@ Installing on Firefox :
   ```bash
   * we can set alarm in HH/MM format with an 
    event name to distinguish between different alarms.
-  * we can set multiple alarms for different events.
   ```
 - Todo List
   ```bash
@@ -69,7 +68,6 @@ Installing on Firefox :
   * A minimum URL blocker to help you stay focused whilst working. 
   * Block any URL you want by adding it to the list.
   * Keep your list saved and just toggle the blocker whenever you want.
-  * You can check whether a particular website is blocked or not.
   ```
 
 ## Screenshots
@@ -80,4 +78,5 @@ Installing on Firefox :
 
 ![3](https://user-images.githubusercontent.com/83536671/189363257-e95f0b12-efc6-4dda-a921-ad4fdab779cc.jpeg)
 
-![1](https://user-images.githubusercontent.com/83536671/189363246-e984ef5e-8b44-4eea-946d-e63732dcacf2.jpeg)
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/83876180/189392665-097b00d6-e2db-447a-8cca-ccf51735d54c.png">
+
