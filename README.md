@@ -68,7 +68,6 @@ Installing on Firefox :
   * A minimum URL blocker to help you stay focused whilst working. 
   * Block any URL you want by adding it to the list.
   * Keep your list saved and just toggle the blocker whenever you want.
-  * You can check whether a particular website is blocked or not.
   ```
 
 ## Screenshots
